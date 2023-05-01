@@ -1,1 +1,3 @@
-kotik  barsikO
+print('kot')
+
+
